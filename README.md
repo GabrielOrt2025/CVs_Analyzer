@@ -5,7 +5,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-LLM%20Framework-black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-green)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-purple)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-PDF%20Processing-red)
+
 
 Sistema inteligente para el análisis automatizado de currículums, diseñado para evaluar candidatos de manera objetiva mediante el uso de inteligencia artificial.
 
